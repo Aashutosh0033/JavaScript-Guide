@@ -20,8 +20,12 @@ Everything inside JavaScript happens inside the **Execution Context**. <br>
 
 
 **Phases of Execution Code**
-* Memory Allocation
+* Memory Allocation - In this 
 * Code Execution 
 
 <br><br>
+
+
+## Functions
+
 
