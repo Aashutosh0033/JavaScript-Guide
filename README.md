@@ -8,3 +8,5 @@ This repo contains all important concepts of JavaScript which makes it unique an
  * Classes and Objects 
  * Objects
  * Asychronous JS
+ * ES6
+
