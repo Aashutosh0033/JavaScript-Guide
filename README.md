@@ -9,6 +9,8 @@ This repo contains all important concepts of JavaScript which makes it unique an
  * Objects
  * Asychronous JS
  * ES6
+ 
+ <br><br>
 
 ## Introduction to JavaScript
 
