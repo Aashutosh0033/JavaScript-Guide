@@ -30,4 +30,17 @@ Everything inside JavaScript happens inside the **Execution Context**. <br>
 
 ## Functions
 
+JavaScript function is a block of code which performs a particular task. It executed only when it is invoked (call).<br>
+<br>
+Syntax: <br>
+```js 
+function function_name(parameters){
+    //code 
+}
+```
+
+
+<br>
+<br>
+
 
