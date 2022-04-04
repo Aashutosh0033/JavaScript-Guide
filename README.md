@@ -51,15 +51,47 @@ console.log(x(4,5);)
 After the function has been stores in the variable, the variable then can be used to call the function.<br>
 <br>
 <br>
-Types of JS function definitions : <br>
+**Types of JS function definitions :** <br>
 * Simple Functions
 * Function() Constructor
 * Self invoking Functions
 * Arrow Functions
 
-Simple Functions : The exaples above which shows the syntax for function declaration can best describe Simple Functions.<br>
+**Simple Functions :** The examples above which shows the syntax for function declaration can best describe Simple Functions.<br>
 <br>
-Self Invoking Functions : 
+
+**Function() Constructor :** Functions can also be defined with a built-in JS function constructor called Function() <br>
+Syntax:<br>
+```js
+const myFunction = new Function("a", "b", "return a * b");
+let x = myFunction(4, 3);
+```
+<br>
+
+**Self Invoking Functions :** Function expressions can be made Self-Invoking. Function expressions will execute (started)  automaticaly, without being called.<br>
+Syntax: <br>
+```js
+(function(){
+    let x = "Hello!" //I will invoke my self
+})();
+```
+<br>
+
+**Arrow Functions :** Arrow functions allows a short syntax for writing function expressions.You don't need the function keyword, the return keyword, and the curly brackets.
+
+```js
+// ES5
+var x = function(x, y) {
+  return x * y;
+}
+
+// ES6
+const x = (x, y) => x * y;
+```
+
+
+
+
 
 
 
