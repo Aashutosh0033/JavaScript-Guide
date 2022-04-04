@@ -57,7 +57,7 @@ After the function has been stores in the variable, the variable then can be use
 * Function() Constructor
 * Self invoking Functions
 * Arrow Functions
-
+<br>
 **Simple Functions :** 
 
 The examples above which shows the syntax for function declaration can best describe Simple Functions.<br>
