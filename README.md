@@ -30,7 +30,7 @@ Everything inside JavaScript happens inside the **Execution Context**. <br>
 
 ## Functions
 
-JavaScript function is a block of code which performs a particular task. It executed only when it is invoked (call).<br>
+JavaScript function is a block of code which performs a particular task. It is executed only when it is invoked (call).<br>
 <br>
 Syntax: <br>
 ```js 
@@ -38,9 +38,29 @@ function function_name(parameters){
     //code 
 }
 ```
+<br>
 
+**Function Expressions:**
+In JS Funtions can be stored in variables. <br>
+For Ex. <br>
+```js
+let x = function(7,8) {return a+b};
 
+console.log(x(4,5);)
+```
+After the function has been stores in the variable, the variable then can be used to call the function.<br>
 <br>
 <br>
+Types of JS function definitions : <br>
+* Simple Functions
+* Function() Constructor
+* Self invoking Functions
+* Arrow Functions
+
+Simple Functions : The exaples above which shows the syntax for function declaration can best describe Simple Functions.<br>
+<br>
+Self Invoking Functions : 
+
+
 
 
