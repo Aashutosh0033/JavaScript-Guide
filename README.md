@@ -137,7 +137,7 @@ let myCar1 = new Cars("Forturner", "Toyota");
 Inheritance example : 
 ```js
 
-class Model extens Cars{
+class Model extends Cars{
     constructor(model,company, color){
     super(Model);
     this.color = color;
