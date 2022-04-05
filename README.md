@@ -187,6 +187,7 @@ Cars[color];
 Accessing Object Methods :-
 ```js
 Cars.sound();
+
 ```
 
 <br>
