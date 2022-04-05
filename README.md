@@ -3,7 +3,7 @@ JavaScript often abbreviated JS, is a programming language that is one of the co
 <br>
 
 This repo contains all important concepts of JavaScript which makes it unique and versatile.<br>
-*"Time, Tide and JavaScript waits for none" - Akshay Saini*
+*"Time, Tide and JavaScript waits for none" - [Akshay Saini](https://www.youtube.com/c/akshaymarch7)*
 
 <br><br>
 
