@@ -1,6 +1,6 @@
 JavaScript often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS.Over 97% of websites use JavaScript on the client side for web page behavior, often incorporating third-party libraries.[13] All major web browsers have a dedicated JavaScript engine to execute the code on users' devices.
 
-<br><br>
+<br>
 
 This repo contains all important concepts of JavaScript which makes it unique and versatile.<br>
 *"Time, Tide and JavaScript waits for none" - Akshay Saini*
