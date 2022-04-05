@@ -185,15 +185,15 @@ Cars[color];
 ```
 <br>
 Accessing Object Methods :-
+
 ```js
 Cars.sound();
-
 ```
 
 <br>
 <br>
 
-**Destruturing of Objects:**
+**Destructuring of Objects:**
 
 ```js
 let {model, company, color} = Cars; 
