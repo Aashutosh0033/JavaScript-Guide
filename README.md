@@ -217,7 +217,7 @@ Note: <br>
 
 
 # Notes
-[Advance JS](https://github.com/Aashutosh0033/JavaScript-Guide/edit/main/)
+[Advance JS](https://github.com/Aashutosh0033/JavaScript-Guide/edit/main/advance_js_notes.pdf)
 
 
 
