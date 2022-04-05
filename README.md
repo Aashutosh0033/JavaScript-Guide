@@ -5,8 +5,7 @@ JavaScript often abbreviated JS, is a programming language that is one of the co
 This repo contains all important concepts of JavaScript which makes it unique and versatile.<br>
 *"Time, Tide and JavaScript waits for none" - Akshay Saini*
 
-
-<br><br><br>
+<br><br>
 
 # Important Concepts
 
