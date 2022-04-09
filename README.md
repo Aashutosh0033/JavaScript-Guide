@@ -9,7 +9,7 @@ This repo contains all important concepts of JavaScript which makes it unique an
 
 <br><br>
 
-# Important Concepts
+# Vanilla JS important Concepts
 
  * Functions
  * Classes and Objects 
